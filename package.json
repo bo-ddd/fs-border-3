@@ -1,0 +1,12 @@
+{
+  "name": "fs-border-3",
+  "version": "1.0.0",
+  "description": "大屏可视化项目边框类型3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
